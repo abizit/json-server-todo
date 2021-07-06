@@ -1,0 +1,12 @@
+*.log
+/.idea
+*.iml
+.DS_Store
+node_modules/
+/.sass-cache
+npm-debug.log
+Thumbs.db
+*.ts
+*.js.map
+**/tsconfig.json
+/.vscode
